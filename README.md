@@ -26,12 +26,14 @@ ResNet50 |0.844|
 ResNet101| 0.869|
 ResNet152|0.868|
 
-- Some prediction examples:
-![examples](Food101-resnet101/images/examples.png)
 
-- state of art
+
+### State of art
 reported from [Wide-Slice Residual Networks for Food Recognition](https://arxiv.org/abs/1612.06543)
 ![state of art](Food101-resnet101/images/state_of_art.png)
+
+### Some prediction examples:
+![examples](Food101-resnet101/images/examples.png)
 
 
 
